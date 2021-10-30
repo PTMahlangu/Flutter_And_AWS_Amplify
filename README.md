@@ -1,5 +1,4 @@
 # aws_amplify
 
-A new Flutter project.
-
+Flutter crud app with AWS Amplify service.
 
